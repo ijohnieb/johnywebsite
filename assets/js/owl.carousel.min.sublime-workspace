@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"Mobile"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/johony/Desktop/john/www.webstrot.com/html/myporto/dark_version/index.html",
+			"settings":
+			{
+				"buffer_size": 66327,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/home/johony/Desktop/john/www.webstrot.com/html/myporto/dark_version/assets/css/style.css",
+			"settings":
+			{
+				"buffer_size": 41863,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/johony/Desktop/john",
+		"/home/johony/Desktop/john/www.webstrot.com",
+		"/home/johony/Desktop/john/www.webstrot.com/html",
+		"/home/johony/Desktop/john/www.webstrot.com/html/myporto",
+		"/home/johony/Desktop/john/www.webstrot.com/html/myporto/dark_version",
+		"/home/johony/Desktop/john/www.webstrot.com/html/myporto/dark_version/assets",
+		"/home/johony/Desktop/john/www.webstrot.com/html/myporto/dark_version/assets/css",
+		"/home/johony/Desktop/john/www.webstrot.com/html/myporto/dark_version/assets/images",
+		"/home/johony/Desktop/john/www.webstrot.com/html/myporto/dark_version/assets/images/news",
+		"/home/johony/Desktop/john/www.webstrot.com/html/myporto/dark_version/assets/images/testomonial"
+	],
+	"file_history":
+	[
+		"/home/johony/Desktop/Firstassignment.html",
+		"/home/johony/Desktop/HTML work sheets/Firstassignment.html",
+		"/home/johony/Desktop/Pokemon.html",
+		"/home/johony/Desktop/prac.html",
+		"/home/johony/Desktop/first.html",
+		"/home/johony/Desktop/Pokemon",
+		"/home/johony/Desktop/CSS Crash Course For Absolute Beginners.mp4",
+		"/home/johony/Downloads/List-Solution-Html/list_solution.html",
+		"/home/johony/Desktop/untitled"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/johony/Desktop/john/www.webstrot.com/html/myporto/dark_version/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66327,
+								66327
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 37378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"file": "/home/johony/Desktop/john/www.webstrot.com/html/myporto/dark_version/assets/images/testomonial/testomonial-img1.jpg",
+					"semi_transient": true,
+					"stack_index": 1,
+					"type": "image"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/johony/Desktop/john/www.webstrot.com/html/myporto/dark_version/assets/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41863,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3164,
+								3164
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3333.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "owl.carousel.min.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
