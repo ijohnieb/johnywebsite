@@ -603,9 +603,9 @@ ul.side-nav li.sn-item > a > i {
   position: absolute;
   top: 36px;
   left: -10px;
-}
+} 
 .main-slider .item-child-right > img {
-  width: 100%;
+  width: 74%;
   height: 100%;
   display: block;
   border-radius:100%;
